@@ -1,0 +1,6 @@
+#cmake build directory
+build/
+
+# VS Code specific
+.vscode/launch.json
+.vscode/tasks.json
